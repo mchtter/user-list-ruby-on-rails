@@ -18,6 +18,9 @@ gem "puma", "~> 5.0"
 # Use httparty to make HTTP requests
 gem "httparty"
 
+# CORS
+gem 'rack-cors'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
